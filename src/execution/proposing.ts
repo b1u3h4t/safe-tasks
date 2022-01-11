@@ -6,7 +6,8 @@ import { getAddress, isHexString } from "ethers/lib/utils";
 import { proposalFile, readFromCliCache, writeToCliCache } from "./utils";
 import { BigNumber } from "@ethersproject/bignumber";
 import { Contract, ethers } from "ethers";
-import fs from 'fs/promises'
+//import fs from 'fs/promises'
+import fs from 'promise-fs'
 import { HardhatRuntimeEnvironment } from "hardhat/types";
 
 export interface SafeTxProposal {

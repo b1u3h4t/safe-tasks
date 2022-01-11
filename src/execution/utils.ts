@@ -1,5 +1,6 @@
 import path from 'path'
-import fs from 'fs/promises'
+//import fs from 'fs/promises'
+import fs from 'promise-fs'
 
 const cliCacheDir = "cli_cache"
 

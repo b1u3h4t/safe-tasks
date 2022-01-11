@@ -29,6 +29,7 @@
     "url": "https://github.com/gnosis/safe-tasks/issues"
   },
   "devDependencies": {
+    "@types/promise-fs": "^2.1.2",
     "@typescript-eslint/eslint-plugin": "^4.7.0",
     "@typescript-eslint/parser": "^4.7.0",
     "eslint": "^7.13.0",
@@ -52,6 +53,7 @@
     "ethers": "^5.1.0",
     "hardhat": "^2.1.2",
     "hardhat-deploy": "^0.7.4",
+    "promise-fs": "^2.1.1",
     "solc": "0.7.6",
     "yargs": "^16.1.1"
   },
