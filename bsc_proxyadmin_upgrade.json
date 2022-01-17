@@ -1,0 +1,9 @@
+[
+    {
+        "to": "0xf21B9983BA4160aa49f11aD8E114A8A7f2f0E919",
+        "value": "0",
+        "method": "upgrade(address,address)",
+        "params": ["0xA8b98461F3744Efc525A1B1249C7135408E62e4e","0x5452284004Ce6dEfD45F4871c7e24266bF7a79EA"],
+        "operation": 0
+    }
+]
