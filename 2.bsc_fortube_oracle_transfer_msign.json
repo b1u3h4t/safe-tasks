@@ -1,0 +1,9 @@
+[
+    {
+        "to": "0xA8b98461F3744Efc525A1B1249C7135408E62e4e",
+        "value": "0",
+        "method": "setMultiSig(address)",
+        "params": ["0x7354092C6032FC2f1B8a43F3A55365be1Ac0348A"],
+        "operation": 0
+    }
+]
